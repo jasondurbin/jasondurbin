@@ -6,7 +6,8 @@ You can shoot me an email at [hello@neonphysics.com](mailto:hello@neonphysics.co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason_Leo_Durbin-0a66c2)](https://www.linkedin.com/in/jasondurbin/)
 [![Reddit](https://img.shields.io/badge/Reddit-NeonPhysics-FF4500?logo=reddit)](https://www.reddit.com/user/NeonPhysics/)
-[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-Jason_Durbin-1E5397?logo=StackExchange)](https://electronics.stackexchange.com/users/278850/jason-durbin)
+[![Electronics Stack Exchange](https://img.shields.io/badge/Electronics_Stack_Exchange-Jason_Durbin-1E5397?logo=StackExchange)](https://electronics.stackexchange.com/users/278850/jason-durbin)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Jason_Durbin-F58025?logo=StackOverflow)](https://stackoverflow.com/users/439938/jason-durbin)
 
 Additionally, I'm working on a few web based tools focused around phased arrays.
 
