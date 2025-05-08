@@ -1,6 +1,6 @@
 ## Hi, I'm Jason
 
-I am a free-lancing (self-employed/consultant) phased array engineer based out of Seattle, WA. My company, [Neon Physics](http://neonphysics.com) helps customers with designing, analyzing, optimizing, testing, and writing software for phased arrays.
+I am a free-lancing (self-employed/consultant) phased array engineer based out of Seattle, WA. My company, [Neon Physics](http://neonphysics.com) helps customers with designing, analyzing, optimizing, and testing phased arrays. I also write firmware and software for controlling and analyzing arrays.
 
 You can shoot me an email at [hello@neonphysics.com](mailto:hello@neonphysics.com). You can also find me around these parts:
 
