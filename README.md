@@ -26,4 +26,4 @@ Below are some links/apps/tools that I really like. Honestly, I am mostly linkin
 - [Paul Tol's Notes](https://sronpersonalpages.nl/~pault/) - Great resource for creating data color schemes.
 - [Coloring for Colorblindness](https://davidmathlogic.com/colorblind) by [David Nichols](https://davidmathlogic.com/) - Resource for ensure color schemes are colorblind safe. I am not personally colorblind but I often use this to double check when I am creating color scheems.
 - [Tabler Icons](https://tablericons.com/) - Free SVG icons.
-- [Microwaves101](https://www.microwaves101.com/) - If you're in the RF industry, Microwaves101 nees no introduction.
+- [Microwaves101](https://www.microwaves101.com/) - If you're in the RF industry, Microwaves101 needs no introduction.
