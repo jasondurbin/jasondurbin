@@ -18,6 +18,7 @@ Additionally, I'm working on a few web based tools focused around phased arrays.
 If you like my projects, please consider donating.
 
 [![Donate via PayPal](https://img.shields.io/badge/PayPal-Donate-fa448c?logo=paypal&style=for-the-badge)](https://www.paypal.com/donate?business=D7S3JKRAAKUNQ&no_recurring=0&currency_code=USD)
+[![Donate via Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-fa448c?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/jasondurbin)
 
 ## Links I like
 
